@@ -23,9 +23,14 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-**Backend & Tools**
+**Backend & Database**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools & Styling**
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -35,11 +40,11 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [HubSource](https://github.com/aniketsham/hubsource) | Collaborative platform for discovering and sharing learning resources — with AI, leaderboards, social features, and real-time data | Next.js, TypeScript, MongoDB, Firebase, Gemini AI |
+| [Swiggy AI Assistant](https://github.com/aniketsham/swiggy_ai_assistant) | Conversational AI agent connecting to Swiggy's Food, Instamart & Dineout MCP servers with intent routing and real-time streaming | Next.js, Vercel AI SDK, Groq, MCP |
 | [Next Amazon App](https://github.com/aniketsham/Next-amazon-app) | Full-featured Amazon clone with product pages, cart, and checkout | Next.js, TypeScript |
 | [Stack Overflow Clone](https://github.com/aniketsham/Stack_Overflow-Clone) | Q&A platform clone with posting, answering, and voting | JavaScript |
 | [Job Portal](https://github.com/aniketsham/job_portal_backend) | Full-stack job listing platform with backend API + frontend | JavaScript |
-| [Portfolio Website](https://github.com/aniketsham/Portfolio_Website_3) | Personal portfolio showcasing my work | JavaScript |
-| [Mr. Ecommerce](https://github.com/aniketsham/Mr.Ecommerce) | E-commerce storefront with product listing and cart | HTML, CSS |
 
 ---
 
