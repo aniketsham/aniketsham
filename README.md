@@ -1,6 +1,6 @@
 # Hi there, I'm Aniket Sharma 👋
 
-🌐 **Web Developer** based in Mumbai, India — building full-stack web apps with a focus on clean UI and real-world functionality.
+🌐 **Full Stack Developer** based in Mumbai, India — building full-stack web apps with a focus on clean UI and real-world functionality.
 
 ---
 
